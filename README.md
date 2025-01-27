@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm Punkouter
 
-<!--
-**punkouter25/punkouter25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Code 24/7 | 📍 Alexandria, VA
 
-Here are some ideas to get you started:
+## Projects & Technologies
+I work with:
+- C#
+- TypeScript
+- HTML
+- CMake
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=punkouter25&show_icons=true&theme=dark)
+
+## Languages I Use Most
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punkouter25&layout=compact&theme=dark)
+
+## Contribution Graph
+![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=punkouter25&theme=dark)
+
+## Recent Projects
+- PoReflexSquares (ShadderLab)
+- PoBabyPoints (CMake)
+- PoTicTac (TypeScript)
+- PoWorkBingo (C#)
+- PoRemoveBad (C#)
