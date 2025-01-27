@@ -18,6 +18,12 @@
 ## 👨‍💻 Languages I Use Most
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punkouter25&layout=compact&theme=dark)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=punkouter25&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Metrics](https://metrics.lecoq.io/punkouter25?template=classic&isocalendar=1&languages=1&introduction=1)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=punkouter25&theme=dark)
+
 ## 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=punkouter25&theme=dark)
 
