@@ -27,9 +27,6 @@
 ## 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=punkouter25&theme=dark)
 
-## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=punkouter25&theme=github-dark)
-
 ## 🐍 Contribution Snake
 ![Snake animation](https://github.com/punkouter25/punkouter25/blob/output/dist/github-contribution-grid-snake.svg)
 
