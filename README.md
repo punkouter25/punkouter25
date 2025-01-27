@@ -25,7 +25,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=punkouter25&theme=github-dark)
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/punkouter25/punkouter25/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/punkouter25/punkouter25/blob/output/dist/github-contribution-grid-snake.svg)
 
 ## ⭐ Featured Repositories
 <a href="https://github.com/punkouter25/PoReflexSquares">
