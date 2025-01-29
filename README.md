@@ -36,28 +36,6 @@
 
 
 ## 📊 Code Distribution
-![Code Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=punkouter25&theme=radical&layout=donut)
 ![Code Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=punkouter25&theme=radical&layout=pie)
 
-## 🏗️ Project Cards Grid
-<div align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=punkouter25&repo=PoReflexSquares&theme=radical" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=punkouter25&repo=PoBabyPoints&theme=radical" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=punkouter25&repo=PoTicTac&theme=radical" />
-</div>
 
-## 📈 Contribution Snake
-![Snake animation](https://github.com/punkouter25/punkouter25/blob/output/github-contribution-grid-snake-dark.svg)
-
-## 🔄 Latest Activity Metrics
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punkouter25&theme=radical&hide_border=true&ring=e05397&fire=e05397" />
-</div>
-
-## 📊 Contribution Graph 3D
-![3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/api?username=punkouter25)
-
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-</p>
