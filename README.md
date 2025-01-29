@@ -4,15 +4,9 @@
 
 💻 Code 24/7 | 📍 Alexandria, VA
 
-## 🛠️ Skills & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,ts,html,cmake,git,visualstudio,vscode" />
-</p>
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=punkouter25&show_icons=true&theme=dark)
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=punkouter25&theme=darkhub&row=1)
+
+
 
 ## 👨‍💻 Languages I Use Most
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punkouter25&layout=compact&theme=dark)
