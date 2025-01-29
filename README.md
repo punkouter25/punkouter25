@@ -29,14 +29,6 @@
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=punkouter25&theme=radical&utcOffset=8" />
 </div>
 
-## 🕒 Weekly Development Breakdown
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=punkouter25&theme=radical&layout=compact)
-
-## 📈 Contribution Calendar
-<div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=punkouter25&theme=radical" />
-</div>
-
 ## 🔥 Language Usage Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punkouter25&theme=radical&layout=compact&langs_count=10" />
