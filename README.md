@@ -8,39 +8,33 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,ts,html,cmake,git,visualstudio,vscode" />
 </p>
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=punkouter25&show_icons=true&theme=dark)
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=punkouter25&theme=darkhub&row=1)
 
-
 ## 👨‍💻 Languages I Use Most
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punkouter25&layout=compact&theme=dark)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=punkouter25&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Metrics](https://metrics.lecoq.io/punkouter25?template=classic&isocalendar=1&languages=1&introduction=1)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=punkouter25&theme=dark)
+## 📈 Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=punkouter25&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=punkouter25&theme=dark)
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/punkouter25/punkouter25/blob/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/punkouter25/punkouter25/blob/main/github-contribution-grid-snake.svg)
 
 ## ⭐ Featured Repositories
-<a href="https://github.com/punkouter25/PoReflexSquares">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=punkouter25&repo=PoReflexSquares&theme=dark" />
-</a>
-<a href="https://github.com/punkouter25/PoBabyPoints">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=punkouter25&repo=PoBabyPoints&theme=dark" />
-</a>
-
-## 📊 Weekly Development Breakdown
-![Metrics](https://metrics.lecoq.io/punkouter25?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=America/New_York)
+<div align="center">
+  <a href="https://github.com/punkouter25/PoReflexSquares">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punkouter25&repo=PoReflexSquares&theme=dark" />
+  </a>
+  <a href="https://github.com/punkouter25/PoBabyPoints">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=punkouter25&repo=PoBabyPoints&theme=dark" />
+  </a>
+</div>
 
 ## 🔨 Recent Projects
 - PoReflexSquares (ShaderLab)
