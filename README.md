@@ -8,8 +8,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=punkouter25&theme=radical" />
 </div>
 
-## 🏆 GitHub Profile Trophy Wall
-![Trophies](https://github-profile-trophy.vercel.app/?username=punkouter25&theme=radical&row=1&column=7&margin-w=15&margin-h=15)
 
 ## 📈 Contribution Metrics
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=punkouter25&theme=redical&area=true&hide_border=false)
